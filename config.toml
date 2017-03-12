@@ -1,4 +1,4 @@
 languageCode = "en-us"
 title = "My New Hugo Site"
 baseURL = "https://conornev.in/"
-theme = "beautifulhugo"
+theme = "cocoa-eh"

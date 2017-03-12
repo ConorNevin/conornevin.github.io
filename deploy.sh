@@ -31,6 +31,7 @@ hugo
 
 msg "Pushing the updated \`public\` folder to the \`master\` branch"
 pushd public
+echo "conornev.in" >> CNAME
 git add *
 git commit -m "$MESSAGE"
 popd

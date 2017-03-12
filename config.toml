@@ -1,4 +1,15 @@
-languageCode = "en-us"
+languageCode = "en-gb"
 title = "My New Hugo Site"
 baseURL = "https://conornev.in/"
-theme = "cocoa-eh"
+theme = "hemingway2"
+publishdir = "public"
+
+[params]
+
+[params.highlight]
+style = "github"
+languages = ["go", "dockerfile"]
+
+[[params.social]]
+url = "https://github.com/ConorNevin"
+fa_icon = "fa-github"

@@ -1,7 +1,7 @@
 languageCode = "en-gb"
 title = "My New Hugo Site"
 baseURL = "https://conornev.in/"
-theme = ["github.com/setsevireon/photophobia"]
+theme = ["photophobia"]
 publishdir = "public"
 
 [params]

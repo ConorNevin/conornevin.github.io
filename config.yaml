@@ -1,0 +1,25 @@
+languageCode: "en-gb"
+title: "Rambles of an Irish Engineer"
+baseURL: "https://conornev.in/"
+theme: "github.com/setsevireon/photophobia"
+publishdir: "public"
+googleAnalytics: "UA-35956300-3"
+
+DefaultContentLanguage: en
+SectionPagesMenu: main
+Paginate: 3
+
+sitemap:
+  changefreq: daily
+  priority: 0.5
+  filename: sitemap.xml
+
+params:
+  favicon: null
+  site_logo: null
+  description: Rambles of an Irish Engineer
+  recent_posts_number: 10
+
+  markup:
+  highlight:
+    style: native

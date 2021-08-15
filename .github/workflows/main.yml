@@ -26,7 +26,7 @@ jobs:
         with:
           personal_token: ${{ secrets.TOKEN }}
           external_repository: ConorNevin/conornevin.github.io
-          publish_dir: .
+          publish_dir: ./public
           #   keep_files: true
           user_name: ConorNevin
           user_email: nevin2792@gmail.com
